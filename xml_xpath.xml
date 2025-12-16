@@ -97,3 +97,43 @@ Example 5: Notebook-এ নতুন page add
         </group>
     </page>
 </xpath>
+
+
+ Step 1: First check-in বের করো
+
+def _get_first_check_in_of_day(self, employee, date):
+    start = datetime.combine(date, time.min)
+    end = datetime.combine(date, time.max)
+
+    return self.search([
+        ('employee_id', '=', employee.id),
+        ('check_in', '>=', start),
+        ('check_in', '<=', end),
+    ], order='check_in asc', limit=1)
+
+Step 2: _compute_is_late ঠিক করো
+@api.depends('check_in', 'employee_id')
+def _compute_is_late(self):
+    for rec in self:
+        if not rec.employee_id or not rec.check_in:
+            rec.is_late = False
+            continue
+
+        check_in_bd = rec._to_bangladesh_time(rec.check_in)
+        current_date = check_in_bd.date()
+
+        # First check-in of the day
+        first_attendance = rec._get_first_check_in_of_day(
+            rec.employee_id, current_date
+        )
+
+        # ❗ Only first check-in can be late
+        if rec.id != first_attendance.id:
+            rec.is_late = False
+            continue
+
+        # Office start time (example 9:30 AM)
+        office_start = datetime.combine(current_date, time(9, 30))
+
+        rec.is_late = check_in_bd > office_start
+https://chatgpt.com/c/6940fce4-b4cc-8323-bf73-8be928bd9597
