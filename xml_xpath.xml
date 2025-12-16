@@ -1,0 +1,99 @@
+Odoo-তে তুমি যখন existing view modify করো, তখন পুরো view rewrite করা যায় না।
+তাই Odoo দেয় → XPath (XML Path Expression)
+
+xpath = “এই original view-এর ঠিক এই জায়গায় আমার content ঢোকাও”
+
+
+
+Original view:
+<form>
+  <sheet>
+    <notebook>
+      <page string="General"/>
+    </notebook>
+  </sheet>
+</form>
+
+
+After inheritance (তোমার xpath):
+<notebook>
+  <page string="General"/>
+  <page string="Processing Information"/>   <!-- added -->
+  <page string="Claim Documents"/>           <!-- added -->
+  <page string="Synopsis"/>                  <!-- added -->
+</notebook>
+
+xpath-এর structure (Golden Rule)
+
+<xpath expr="TARGET" position="WHERE">
+    WHAT_TO_ADD_OR_CHANGE
+</xpath>
+
+
+| Part       | কাজ                   |
+| ---------- | --------------------- |
+| `expr`     | কোন element ধরবে      |
+| `position` | কীভাবে modify করবে    |
+| body       | কী add / replace করবে |
+
+
+
+| position     | কাজ                   |
+| ------------ | --------------------- |
+| `inside`     | target-এর ভিতরে ঢোকায় |
+| `before`     | target-এর আগে         |
+| `after`      | target-এর পরে         |
+| `replace`    | target পুরো replace   |
+| `attributes` | attribute modify      |
+
+
+
+অন্য model / field modify করতে চাইলে কী করবে?
+
+
+Step 1: Original view খুঁজে বের করো
+
+Developer mode ON
+
+View → Form View
+
+Copy External ID
+
+
+Step 2: Inherit view বানাও
+<record id="crm_lead_form_inherit_custom" model="ir.ui.view">
+  <field name="name">crm.lead.form.inherit.custom</field>
+  <field name="model">crm.lead</field>
+  <field name="inherit_id" ref="crm.crm_lead_view_form"/>
+  <field name="arch" type="xml">
+
+Step 3: xpath লিখো (field add / modify)
+
+Real examples (most important part)
+
+Example 1: নতুন field add করতে চাই
+
+<xpath expr="//group" position="inside">
+    <field name="my_custom_field"/>
+</xpath>
+
+Example 2: Specific field-এর পরে add করতে চাই
+<xpath expr="//field[@name='phone']" position="after">
+    <field name="other_phone"/>
+</xpath>
+Example 3: Existing field hide করতে চাই
+<xpath expr="//field[@name='email_from']" position="attributes">
+    <attribute name="invisible">1</attribute>
+</xpath>
+Example 4: Label change করতে চাই
+<xpath expr="//field[@name='phone']" position="attributes">
+    <attribute name="string">Mobile Number</attribute>
+</xpath>
+Example 5: Notebook-এ নতুন page add
+<xpath expr="//notebook" position="inside">
+    <page string="Extra Info">
+        <group>
+            <field name="x_note"/>
+        </group>
+    </page>
+</xpath>
