@@ -1,0 +1,244 @@
+        <div class="product-card premium-card">
+            <div class="product-img-wrapper">
+                <img src="https://krishibidfeed.com/uploads/products/photos/aOs8WQvBU2oYv8qvW4K2MYhfjiMkKvDiFiWNs3lr.jpg" alt="Poultry Feed" loading="lazy">
+                <div class="product-badge premium-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+                    </svg>
+                    Premium Quality
+                </div>
+                <div class="product-overlay">
+                    <button class="quick-view-btn" data-qv="" data-title="Layer Feed" data-image="https://krishibidfeed.com/uploads/products/photos/aOs8WQvBU2oYv8qvW4K2MYhfjiMkKvDiFiWNs3lr.jpg" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                        Layer Feed
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.9/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity with advanced nutritional technology.
+                </p>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Layer Feed" data-image="https://krishibidfeed.com/uploads/products/photos/aOs8WQvBU2oYv8qvW4K2MYhfjiMkKvDiFiWNs3lr.jpg" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">Learn More</span>
+                        <span class="button-icon">→</span>
+                    </button>
+
+                    <button class="wishlist-btn" type="button">
+                        <svg class="heart-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                            viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card elite-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1327-52f8c6e2/feeding.png?height=256" alt="Birds" loading="lazy">
+                <div class="product-overlay">
+                   <button class="quick-view-btn" data-qv="" data-title="Nutrition feed" data-image="http://72.60.205.253:8080/web/image/1327-52f8c6e2/feeding.png?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                      Nutrition feed
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">5.0/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Genetically superior day-old chicks and healthy parent stocks, bred under strict biosecurity protocols for maximum yield and exceptional growth rates.
+                </p>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Nutrition feed" data-image="http://72.60.205.253:8080/web/image/1327-52f8c6e2/feeding.png?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+                    <button class="wishlist-btn" type="button">
+                        <svg class="heart-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                            viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card egg-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1328-22869a7f/doctor-getting-ready-vaccine-patient.jpg?height=256" alt="Eggs" loading="lazy">
+                <div class="product-badge new-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M7.657 6.247c.11-.33.576-.33.686 0l.645 1.937a2.89 2.89 0 0 0 1.829 1.828l1.936.645c.33.11.33.576 0 .686l-1.937.645a2.89 2.89 0 0 0-1.828 1.829l-.645 1.936a.361.361 0 0 1-.686 0l-.645-1.937a2.89 2.89 0 0 0-1.828-1.828l-1.937-.645a.361.361 0 0 1 0-.686l1.937-.645a2.89 2.89 0 0 0 1.828-1.828l.645-1.937z"></path>
+                    </svg>
+                    New Arrival
+                </div>
+                <div class="product-overlay">
+                   <button class="quick-view-btn" data-qv="" data-title="hello world" data-image="http://72.60.205.253:8080/web/image/1328-22869a7f/doctor-getting-ready-vaccine-patient.jpg?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                      hello world 3
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.8/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Nutrient-dense eggs produced from our own healthy layer farms, maintaining the highest standards of freshness, hygiene, and organic certification.
+                </p>
+                
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Chiken vaccine" data-image="http://72.60.205.253:8080/web/image/1328-22869a7f/doctor-getting-ready-vaccine-patient.jpg?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+                    <button class="wishlist-btn" type="button">
+                        <svg class="heart-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                            viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        <div class="modal fade" id="productQuickViewModal" tabindex="-1">
+            <div class="modal-dialog modal-dialog-centered modal-sm qv-wizard">
+                <div class="modal-content">
+        
+                    <div class="modal-header py-2">
+                        <h6 class="modal-title" id="qvTitle"></h6>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+        
+                    <div class="modal-body p-3 text-center">
+                        <img id="qvImage" class="img-fluid rounded mb-2 qv-img" loading="lazy">
+                        <p id="qvDescription" class="small text-muted"></p>
+                    </div>
+        
+                </div>
+            </div>
+        </div>
+
+        
+        <style>
+            .qv-wizard {
+                max-width: 420px;
+            }
+            
+            .qv-img {
+                max-height: 160px;
+                object-fit: cover;
+            }
+            
+            .modal {
+                background: rgba(0,0,0,.45);
+            }
+            
+            .modal-content {
+                border-radius: 14px;
+            }
+
+            .wishlist-btn {
+                background: transparent;
+                border: none;
+                cursor: pointer;
+                padding: 6px;
+            }
+
+            .heart-icon {
+                fill: none;
+                stroke: #e63946;
+                stroke-width: 1.5;
+                transition: all 0.25s ease;
+            }
+
+            
+            .wishlist-btn.active .heart-icon {
+                fill: #e63946;
+                stroke: #e63946;
+                transform: scale(1.15);
+            }
+        </style>
+
+        
+        
+        
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+            
+                document.querySelectorAll("[data-qv]").forEach(function (btn) {
+                    btn.addEventListener("click", function () {
+            
+                        document.getElementById("qvTitle").textContent = this.dataset.title;
+                        document.getElementById("qvImage").src = this.dataset.image;
+                        document.getElementById("qvDescription").textContent = this.dataset.desc;
+            
+                        const modal = document.getElementById("productQuickViewModal");
+                        modal.style.display = "block";
+                        modal.classList.add("show");
+                        document.body.classList.add("modal-open");
+            
+                        if (!document.querySelector(".modal-backdrop")) {
+                            const backdrop = document.createElement("div");
+                            backdrop.className = "modal-backdrop fade show";
+                            document.body.appendChild(backdrop);
+                        }
+                    });
+                });
+            
+                document.addEventListener("click", function (e) {
+                    if (e.target.dataset.bsDismiss === "modal") {
+                        const modal = document.getElementById("productQuickViewModal");
+                        modal.classList.remove("show");
+                        modal.style.display = "none";
+                        document.body.classList.remove("modal-open");
+                        document.querySelector(".modal-backdrop")?.remove();
+                    }
+                });
+            
+            });
+
+            document.addEventListener("DOMContentLoaded", function () {
+                document.querySelectorAll(".wishlist-btn").forEach(function (btn) {
+                    btn.addEventListener("click", function () {
+                        this.classList.toggle("active");
+                    });
+                });
+            });
+        </script>

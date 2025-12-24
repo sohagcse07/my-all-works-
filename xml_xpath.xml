@@ -99,6 +99,29 @@ Example 5: Notebook-এ নতুন page add
 </xpath>
 
 
+XML-এ proper way (Escape characters)
+| Symbol | XML-safe |
+| ------ | -------- |
+| `<`    | `&lt;`   |
+| `>`    | `&gt;`   |
+| `&`    | `&amp;`  |
+| `"`    | `&quot;` |
+| `'`    | `&apos;` |
+
+Always এই structure use করো
+<t t-call="website.layout">
+  <div class="container my-4">
+    <div class="row">
+      <div class="col-12">
+        <h4 class="mb-3">My Portal Dashboard</h4>
+      </div>
+    </div>
+  </div>
+</t>
+
+
+
+
  Step 1: First check-in বের করো
 
 def _get_first_check_in_of_day(self, employee, date):
