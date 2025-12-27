@@ -1,0 +1,1712 @@
+<section class="agro-products-section">
+    
+    <div class="product-header">
+        <span class="badge animated-badge">
+            <span class="badge-icon">🏆</span>
+            Our Products
+        </span>
+        <h2 class="section-title">
+            Superior Agricultural Products
+            <span class="title-highlight">Excellence</span>
+        </h2>
+        <div class="divider animated-divider"></div>
+        <p class="section-desc">
+            Delivering excellence through our integrated poultry solutions, ensuring quality from feed to farm.
+        </p>
+        
+        
+        <div class="stats-container">
+            <div class="stat-item">
+                <div class="stat-number" data-count="8.5/10">8.5/10</div>
+                <div class="stat-label">Quality Score</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" data-count="25">25</div>
+                <div class="stat-label">Years Experience</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" data-count="50+">50+</div>
+                <div class="stat-label">Products</div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="product-grid">
+        <div class="product-card premium-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1323-8f0f0ada/photorealistic-scene-poultry-farm-with-chickens.jpg?height=256" alt="Poultry Feed" loading="lazy">
+                <div class="product-badge premium-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+                    </svg>
+                    Premium Quality
+                </div>
+                <div class="product-overlay">
+                    <button class="quick-view-btn" data-qv="" data-title="Poultry Feed" data-image="http://72.60.205.253:8080/web/image/1323-8f0f0ada/photorealistic-scene-poultry-farm-with-chickens.jpg?height=256"
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                        <span class="title-icon">🌾</span>
+                        Poultry Feed
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.9/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity with advanced nutritional technology.
+                </p>
+                
+                <div class="product-details">
+                    <div class="detail-item">
+                        <span class="detail-label">Formulation:</span>
+                        <span class="detail-value">Advanced Balanced</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Protein:</span>
+                        <span class="detail-value">18-22%</span>
+                    </div>
+                </div>
+                
+                <ul class="product-tags">
+                    <li class="tag-item">
+                        <span class="tag-icon">🐣</span>
+                        Starter
+                    </li>
+                    <li class="tag-item">
+                        <span class="tag-icon">🐓</span>
+                        Grower
+                    </li>
+                    <li class="tag-item">
+                        <span class="tag-icon">🥚</span>
+                        Layer
+                    </li>
+                    <li class="tag-item">
+                        <span class="tag-icon">🏆</span>
+                        Finisher
+                    </li>
+                </ul>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Poultry Feed" data-image="http://72.60.205.253:8080/web/image/1323-8f0f0ada/photorealistic-scene-poultry-farm-with-chickens.jpg?height=256" 
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">Learn More</span>
+                        <span class="button-icon">→</span>
+                    </button>
+
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card elite-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1237-0561a3e8/6%20Best%20Chicken%20Hatcheries%20in%20North%20Carolina.jpeg?height=256" alt="Birds" loading="lazy">
+                <div class="product-overlay">
+                    <button class="quick-view-btn" data-qv="" data-title="Elite Birds" data-image="http://72.60.205.253:8080/web/image/1237-0561a3e8/6%20Best%20Chicken%20Hatcheries%20in%20North%20Carolina.jpeg?height=256"
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                        <span class="title-icon">🐓</span>
+                        Elite Birds
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">5.0/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Genetically superior day-old chicks and healthy parent stocks, bred under strict biosecurity protocols for maximum yield and exceptional growth rates.
+                </p>
+                
+                <div class="product-details">
+                    <div class="detail-item">
+                        <span class="detail-label">Success Rate:</span>
+                        <span class="detail-value">98%+</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Biosecurity:</span>
+                        <span class="detail-value">Level 4</span>
+                    </div>
+                </div>
+                
+                <ul class="product-tags">
+                    <li class="tag-item">
+                        <span class="tag-icon">🐤</span>
+                        Broiler Chicks
+                    </li>
+                    <li class="tag-item">
+                        <span class="tag-icon">🥚</span>
+                        Layer Chicks
+                    </li>
+                    <li class="tag-item">
+                        <span class="tag-icon">👨‍👩‍👧</span>
+                        Parent Stock
+                    </li>
+                </ul>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Elite Birds" data-image="http://72.60.205.253:8080/web/image/1237-0561a3e8/6%20Best%20Chicken%20Hatcheries%20in%20North%20Carolina.jpeg?height=256"
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card egg-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1322-eea3de7f/eggs-cups-burlap-with-dry-grass.jpg?height=256" alt="Eggs" loading="lazy">
+                <div class="product-badge new-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M7.657 6.247c.11-.33.576-.33.686 0l.645 1.937a2.89 2.89 0 0 0 1.829 1.828l1.936.645c.33.11.33.576 0 .686l-1.937.645a2.89 2.89 0 0 0-1.828 1.829l-.645 1.936a.361.361 0 0 1-.686 0l-.645-1.937a2.89 2.89 0 0 0-1.828-1.828l-1.937-.645a.361.361 0 0 1 0-.686l1.937-.645a2.89 2.89 0 0 0 1.828-1.828l.645-1.937z"></path>
+                    </svg>
+                    Fresh Daily
+                </div>
+                <div class="product-overlay">
+                    <button class="quick-view-btn" data-qv="" data-title="Fresh Eggs" data-image="http://72.60.205.253:8080/web/image/1322-eea3de7f/eggs-cups-burlap-with-dry-grass.jpg?height=256" 
+                    data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                        <span class="title-icon">🥚</span>
+                        Fresh Eggs
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.8/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Nutrient-dense eggs produced from our own healthy layer farms, maintaining the highest standards of freshness, hygiene, and organic certification.
+                </p>
+                
+                <div class="product-details">
+                    <div class="detail-item">
+                        <span class="detail-label">Shelf Life:</span>
+                        <span class="detail-value">30+ Days</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="detail-label">Certification:</span>
+                        <span class="detail-value">Organic</span>
+                    </div>
+                </div>
+                
+                <ul class="product-tags">
+                    <li class="tag-item">
+                        <span class="tag-icon">🍽️</span>
+                        Table Eggs
+                    </li>
+                    <li class="tag-item">
+                        <span class="tag-icon">🐣</span>
+                        Breeder Eggs
+                    </li>
+                    <li class="tag-item">
+                        <span class="tag-icon">🌿</span>
+                        Organic
+                    </li>
+                </ul>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Fresh Eggs" data-image="http://72.60.205.253:8080/web/image/1322-eea3de7f/eggs-cups-burlap-with-dry-grass.jpg?height=256" 
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        
+
+
+        
+
+
+
+        <!-- first card products -->
+
+        <div class="product-card premium-card">
+            <div class="product-img-wrapper">
+                <img src="https://krishibidfeed.com/uploads/products/photos/aOs8WQvBU2oYv8qvW4K2MYhfjiMkKvDiFiWNs3lr.jpg" alt="Poultry Feed" loading="lazy">
+                <div class="product-badge premium-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+                    </svg>
+                    Premium Quality
+                </div>
+                <div class="product-overlay">
+                    <button class="quick-view-btn" data-qv="" data-title="Layer Feed" data-image="https://krishibidfeed.com/uploads/products/photos/aOs8WQvBU2oYv8qvW4K2MYhfjiMkKvDiFiWNs3lr.jpg" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                        Layer Feed
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.9/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity with advanced nutritional technology.
+                </p>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Layer Feed" data-image="https://krishibidfeed.com/uploads/products/photos/aOs8WQvBU2oYv8qvW4K2MYhfjiMkKvDiFiWNs3lr.jpg" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">Learn More</span>
+                        <span class="button-icon">→</span>
+                    </button>
+
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card elite-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1327-52f8c6e2/feeding.png?height=256" alt="Birds" loading="lazy">
+                <div class="product-overlay">
+                   <button class="quick-view-btn" data-qv="" data-title="Nutrition feed" data-image="http://72.60.205.253:8080/web/image/1327-52f8c6e2/feeding.png?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                      Nutrition feed
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">5.0/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Genetically superior day-old chicks and healthy parent stocks, bred under strict biosecurity protocols for maximum yield and exceptional growth rates.
+                </p>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Nutrition feed" data-image="http://72.60.205.253:8080/web/image/1327-52f8c6e2/feeding.png?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card egg-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1328-22869a7f/doctor-getting-ready-vaccine-patient.jpg?height=256" alt="Eggs" loading="lazy">
+                <div class="product-badge new-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M7.657 6.247c.11-.33.576-.33.686 0l.645 1.937a2.89 2.89 0 0 0 1.829 1.828l1.936.645c.33.11.33.576 0 .686l-1.937.645a2.89 2.89 0 0 0-1.828 1.829l-.645 1.936a.361.361 0 0 1-.686 0l-.645-1.937a2.89 2.89 0 0 0-1.828-1.828l-1.937-.645a.361.361 0 0 1 0-.686l1.937-.645a2.89 2.89 0 0 0 1.828-1.828l.645-1.937z"></path>
+                    </svg>
+                    New Arrival
+                </div>
+                <div class="product-overlay">
+                   <button class="quick-view-btn" data-qv="" data-title="hello world" data-image="http://72.60.205.253:8080/web/image/1328-22869a7f/doctor-getting-ready-vaccine-patient.jpg?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                      Chicken Vaccination
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.8/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Nutrient-dense eggs produced from our own healthy layer farms, maintaining the highest standards of freshness, hygiene, and organic certification.
+                </p>
+                
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Chicken Vaccination" data-image="http://72.60.205.253:8080/web/image/1328-22869a7f/doctor-getting-ready-vaccine-patient.jpg?height=256"
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        <div class="modal fade" id="productQuickViewModal" tabindex="-1">
+            <div class="modal-dialog modal-dialog-centered modal-sm qv-wizard">
+                <div class="modal-content">
+        
+                    <div class="modal-header py-2">
+                        <h6 class="modal-title" id="qvTitle"></h6>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+        
+                    <div class="modal-body p-3 text-center">
+                        <img id="qvImage" class="img-fluid rounded mb-2 qv-img" loading="lazy">
+                        <p id="qvDescription" class="small text-muted"></p>
+                    </div>
+        
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <!-- Second card products -->
+        <div class="product-card premium-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1341-3c139b5f/close-up-cute-baby-chicken.jpg?height=256" alt="Poultry Feed" loading="lazy">
+                <div class="product-badge premium-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"></path>
+                    </svg>
+                    Premium Quality
+                </div>
+                <div class="product-overlay">
+                    <button class="quick-view-btn" data-qv="" data-title="Broiler Chicks" data-image="http://72.60.205.253:8080/web/image/1341-3c139b5f/close-up-cute-baby-chicken.jpg?height=256" data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                       Broiler Chicks
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.9/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity with advanced nutritional technology.
+                </p>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Broiler Chicks" data-image="http://72.60.205.253:8080/web/image/1341-3c139b5f/close-up-cute-baby-chicken.jpg?height=256" 
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">Learn More</span>
+                        <span class="button-icon">→</span>
+                    </button>
+
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card elite-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1342-70a59339/photorealistic-scene-poultry-farm-with-chickens.jpg?height=256" alt="Birds" loading="lazy">
+                <div class="product-overlay">
+                   <button class="quick-view-btn" data-qv="" data-title="Parent Stock" data-image="http://72.60.205.253:8080/web/image/1342-70a59339/photorealistic-scene-poultry-farm-with-chickens.jpg?height=256" 
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                      Parent Stock
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">5.0/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Genetically superior day-old chicks and healthy parent stocks, bred under strict biosecurity protocols for maximum yield and exceptional growth rates.
+                </p>
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Parent Stock" data-image="http://72.60.205.253:8080/web/image/1342-70a59339/photorealistic-scene-poultry-farm-with-chickens.jpg?height=256">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="product-card egg-card">
+            <div class="product-img-wrapper">
+                <img src="http://72.60.205.253:8080/web/image/1343-ab297516/small-curious-hatched-chicken-looking-eggshell.jpg?height=256" alt="Eggs" loading="lazy">
+                <div class="product-badge new-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M7.657 6.247c.11-.33.576-.33.686 0l.645 1.937a2.89 2.89 0 0 0 1.829 1.828l1.936.645c.33.11.33.576 0 .686l-1.937.645a2.89 2.89 0 0 0-1.828 1.829l-.645 1.936a.361.361 0 0 1-.686 0l-.645-1.937a2.89 2.89 0 0 0-1.828-1.828l-1.937-.645a.361.361 0 0 1 0-.686l1.937-.645a2.89 2.89 0 0 0 1.828-1.828l.645-1.937z"></path>
+                    </svg>
+                    New Arrival
+                </div>
+                <div class="product-overlay">
+                   <button class="quick-view-btn" data-qv="" data-title="Layer Chicks" data-image="http://72.60.205.253:8080/web/image/1343-ab297516/small-curious-hatched-chicken-looking-eggshell.jpg?height=256" 
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        Quick View
+                    </button>
+
+                </div>
+            </div>
+            
+            <div class="product-content">
+                <div class="product-header-content">
+                    <h3 class="product-title">
+                      Layer Chicks
+                    </h3>
+                    <div class="product-rating">
+                        <span class="stars">★★★★★</span>
+                        <span class="rating-text">4.8/5</span>
+                    </div>
+                </div>
+                
+                <p class="product-description">
+                    Nutrient-dense eggs produced from our own healthy layer farms, maintaining the highest standards of freshness, hygiene, and organic certification.
+                </p>
+                
+                
+                <div class="product-footer">
+                    <button class="cta-button" data-qv="" data-title="Layer Chicks" data-image="http://72.60.205.253:8080/web/image/1343-ab297516/small-curious-hatched-chicken-looking-eggshell.jpg?height=256"
+                        data-desc="Scientifically formulated nutrition for every stage of growth. Our high-performance feed ensures optimal health and productivity.">
+                        <span class="button-text">View Details</span>
+                        <span class="button-icon">→</span>
+                    </button>
+                    <button class="wishlist-btn" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="heart-icon" width="20" height="20" viewBox="0 0 16 16">
+                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        
+        <style>
+            .qv-wizard {
+                max-width: 420px;
+            }
+            
+            .qv-img {
+                max-height: 160px;
+                object-fit: cover;
+            }
+            
+            .modal {
+                background: rgba(0,0,0,.45);
+            }
+            
+            .modal-content {
+                border-radius: 14px;
+            }
+
+            .wishlist-btn {
+                background: transparent;
+                border: none;
+                cursor: pointer;
+                padding: 6px;
+            }
+
+            .heart-icon {
+                fill: none;
+                stroke: #e63946;
+                stroke-width: 1.5;
+                transition: all 0.25s ease;
+            }
+
+            
+            .wishlist-btn.active .heart-icon {
+                fill: #e63946;
+                stroke: #e63946;
+                transform: scale(1.15);
+            }
+        </style>
+
+        
+        
+        
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+            
+                document.querySelectorAll("[data-qv]").forEach(function (btn) {
+                    btn.addEventListener("click", function () {
+            
+                        document.getElementById("qvTitle").textContent = this.dataset.title;
+                        document.getElementById("qvImage").src = this.dataset.image;
+                        document.getElementById("qvDescription").textContent = this.dataset.desc;
+            
+                        const modal = document.getElementById("productQuickViewModal");
+                        modal.style.display = "block";
+                        modal.classList.add("show");
+                        document.body.classList.add("modal-open");
+            
+                        if (!document.querySelector(".modal-backdrop")) {
+                            const backdrop = document.createElement("div");
+                            backdrop.className = "modal-backdrop fade show";
+                            document.body.appendChild(backdrop);
+                        }
+                    });
+                });
+            
+                document.addEventListener("click", function (e) {
+                    if (e.target.dataset.bsDismiss === "modal") {
+                        const modal = document.getElementById("productQuickViewModal");
+                        modal.classList.remove("show");
+                        modal.style.display = "none";
+                        document.body.classList.remove("modal-open");
+                        document.querySelector(".modal-backdrop")?.remove();
+                    }
+                });
+            
+            });
+
+            document.addEventListener("DOMContentLoaded", function () {
+                document.querySelectorAll(".wishlist-btn").forEach(function (btn) {
+                    btn.addEventListener("click", function () {
+                        this.classList.toggle("active");
+                    });
+                });
+            });
+        </script>
+
+        
+        
+     
+
+    </div>
+</section>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+    .agro-products-section {
+        padding: 100px 5%;
+        background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+        font-family: 'Inter', 'Montserrat', sans-serif;
+        position: relative;
+        overflow: hidden;
+    }
+
+    /* Background Pattern */
+    .agro-products-section::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: 
+            radial-gradient(circle at 10% 20%, rgba(0, 123, 255, 0.03) 0%, transparent 20%),
+            radial-gradient(circle at 90% 80%, rgba(40, 167, 69, 0.03) 0%, transparent 20%);
+        z-index: 0;
+    }
+
+  
+    .product-header {
+        text-align: center;
+        margin-bottom: 80px;
+        position: relative;
+        z-index: 1;
+    }
+
+    .animated-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        background: linear-gradient(135deg, #007bff, #0056b3);
+        color: white;
+        padding: 8px 20px;
+        border-radius: 50px;
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        margin-bottom: 25px;
+        animation: pulse 2s infinite;
+        box-shadow: 0 4px 15px rgba(0, 123, 255, 0.2);
+    }
+
+    .badge-icon {
+        font-size: 16px;
+    }
+
+    .section-title {
+        font-size: 48px;
+        color: #1a365d;
+        margin: 20px 0;
+        font-weight: 800;
+        line-height: 1.2;
+        position: relative;
+        display: inline-block;
+    }
+
+    .title-highlight {
+        color: #007bff;
+        position: relative;
+        display: inline-block;
+    }
+
+    .title-highlight::after {
+        content: '';
+        position: absolute;
+        bottom: 5px;
+        left: 0;
+        width: 100%;
+        height: 8px;
+        background: rgba(0, 123, 255, 0.2);
+        z-index: -1;
+        border-radius: 4px;
+    }
+
+    .animated-divider {
+        width: 80px;
+        height: 4px;
+        background: linear-gradient(90deg, #007bff, #28a745);
+        margin: 25px auto;
+        border-radius: 2px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .animated-divider::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.8), transparent);
+        animation: shimmer 2s infinite;
+    }
+
+    .section-desc {
+        color: #4a5568;
+        max-width: 700px;
+        margin: 30px auto 40px;
+        font-size: 18px;
+        line-height: 1.8;
+        font-weight: 400;
+    }
+
+    
+    .stats-container {
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+        margin-top: 50px;
+        flex-wrap: wrap;
+    }
+
+    .stat-item {
+        text-align: center;
+        padding: 20px;
+        min-width: 120px;
+    }
+
+    .stat-number {
+        font-size: 48px;
+        font-weight: 800;
+        background: linear-gradient(135deg, #007bff, #28a745);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 10px;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .stat-label {
+        color: #718096;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+   
+    .product-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 40px;
+        max-width: 1300px;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+    }
+
+    .product-card {
+        background: white;
+        border-radius: 25px;
+        overflow: hidden;
+        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+        transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        border: 1px solid rgba(0, 0, 0, 0.05);
+        position: relative;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .product-card:hover {
+        transform: translateY(-15px) scale(1.02);
+        box-shadow: 0 30px 60px rgba(0, 0, 0, 0.15);
+    }
+
+    .premium-card:hover {
+        border-color: #007bff;
+        box-shadow: 0 30px 60px rgba(0, 123, 255, 0.2);
+    }
+
+    .elite-card:hover {
+        border-color: #28a745;
+        box-shadow: 0 30px 60px rgba(40, 167, 69, 0.2);
+    }
+
+    .egg-card:hover {
+        border-color: #ffc107;
+        box-shadow: 0 30px 60px rgba(255, 193, 7, 0.2);
+    }
+
+    .product-img-wrapper {
+        position: relative;
+        height: 280px;
+        overflow: hidden;
+    }
+
+    .product-img-wrapper img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: all 0.6s ease;
+    }
+
+    .product-card:hover .product-img-wrapper img {
+        transform: scale(1.15) rotate(2deg);
+    }
+
+    .product-badge {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: rgba(255, 255, 255, 0.95);
+        color: #2d3748;
+        padding: 8px 16px;
+        border-radius: 25px;
+        font-size: 12px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        backdrop-filter: blur(10px);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        z-index: 2;
+    }
+
+    .premium-badge {
+        background: linear-gradient(135deg, #ffd700, #ffed4e);
+        color: #805b10;
+    }
+
+    .new-badge {
+        background: linear-gradient(135deg, #28a745, #20c997);
+        color: white;
+    }
+
+    .product-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.7);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        opacity: 0;
+        transition: opacity 0.4s ease;
+    }
+
+    .product-card:hover .product-overlay {
+        opacity: 1;
+    }
+
+    .quick-view-btn {
+        background: white;
+        color: #2d3748;
+        border: none;
+        padding: 12px 24px;
+        border-radius: 25px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        transform: translateY(20px);
+        opacity: 0;
+    }
+
+    .product-card:hover .quick-view-btn {
+        transform: translateY(0);
+        opacity: 1;
+        transition-delay: 0.2s;
+    }
+
+    .quick-view-btn:hover {
+        background: #007bff;
+        color: white;
+        transform: scale(1.05);
+    }
+
+    
+    .product-content {
+        padding: 30px;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .product-header-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 15px;
+    }
+
+    .product-title {
+        font-size: 24px;
+        color: #2d3748;
+        margin: 0;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .title-icon {
+        font-size: 28px;
+    }
+
+    .product-rating {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .stars {
+        color: #ffc107;
+        font-size: 16px;
+        letter-spacing: 2px;
+    }
+
+    .rating-text {
+        font-size: 12px;
+        color: #718096;
+        font-weight: 600;
+    }
+
+    .product-description {
+        color: #4a5568;
+        font-size: 15px;
+        line-height: 1.7;
+        margin: 15px 0 25px;
+        flex: 1;
+    }
+
+    .product-details {
+        background: #f8f9fa;
+        border-radius: 12px;
+        padding: 20px;
+        margin: 20px 0;
+    }
+
+    .detail-item {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+
+    .detail-item:last-child {
+        margin-bottom: 0;
+    }
+
+    .detail-label {
+        color: #718096;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    .detail-value {
+        color: #2d3748;
+        font-weight: 700;
+        font-size: 14px;
+    }
+
+   
+    .product-tags {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 20px 0 25px;
+    }
+
+    .tag-item {
+        background: #f1f5f9;
+        color: #2d3748;
+        padding: 8px 16px;
+        border-radius: 20px;
+        font-size: 13px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        transition: all 0.3s ease;
+        border: 1px solid #e2e8f0;
+    }
+
+    .product-card:hover .tag-item {
+        background: #007bff;
+        color: white;
+        border-color: #007bff;
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(0, 123, 255, 0.2);
+    }
+
+    .tag-icon {
+        font-size: 14px;
+    }
+
+    
+    .product-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: auto;
+        padding-top: 20px;
+        border-top: 1px solid #e2e8f0;
+    }
+
+    .cta-button {
+        background: linear-gradient(135deg, #007bff, #0056b3);
+        color: white;
+        border: none;
+        padding: 14px 28px;
+        border-radius: 25px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        flex: 1;
+        justify-content: center;
+        max-width: 200px;
+    }
+
+    .cta-button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 25px rgba(0, 123, 255, 0.3);
+        background: linear-gradient(135deg, #0056b3, #004494);
+    }
+
+    .wishlist-btn {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background: #f8f9fa;
+        border: 1px solid #e2e8f0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        color: #718096;
+    }
+
+    .wishlist-btn:hover {
+        background: #e53e3e;
+        color: white;
+        border-color: #e53e3e;
+        transform: scale(1.1);
+    }
+
+    @keyframes pulse {
+        0%, 100% {
+            transform: scale(1);
+            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.2);
+        }
+        50% {
+            transform: scale(1.05);
+            box-shadow: 0 8px 25px rgba(0, 123, 255, 0.3);
+        }
+    }
+
+    @keyframes shimmer {
+        0% {
+            left: -100%;
+        }
+        100% {
+            left: 100%;
+        }
+    }
+
+    
+    @media (max-width: 1200px) {
+        .product-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media (max-width: 768px) {
+        .agro-products-section {
+            padding: 60px 5%;
+        }
+        
+        .section-title {
+            font-size: 32px;
+        }
+        
+        .stats-container {
+            gap: 30px;
+        }
+        
+        .stat-number {
+            font-size: 36px;
+        }
+        
+        .product-grid {
+            grid-template-columns: 1fr;
+            gap: 30px;
+        }
+        
+        .product-img-wrapper {
+            height: 240px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .section-title {
+            font-size: 28px;
+        }
+        
+        .section-desc {
+            font-size: 16px;
+        }
+        
+        .stats-container {
+            gap: 20px;
+        }
+        
+        .stat-item {
+            min-width: 100px;
+        }
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+        const counters = document.querySelectorAll('.stat-number');
+
+        counters.forEach(counter => {
+            const rawValue = counter.getAttribute('data-count');
+
+            // extract number (supports decimal)
+            const numberMatch = rawValue.match(/[\d.]+/);
+            const target = numberMatch ? parseFloat(numberMatch[0]) : 0;
+
+            // extract suffix like + or /10
+            const suffix = rawValue.replace(numberMatch[0], '');
+
+            const duration = 2000;
+            const increment = target / (duration / 16);
+            let current = 0;
+
+            const updateCounter = () => {
+                current += increment;
+                if (current < target) {
+                    counter.textContent =
+                        (target % 1 === 0 ? Math.floor(current) : current.toFixed(1)) + suffix;
+                    setTimeout(updateCounter, 16);
+                } else {
+                    counter.textContent = target + suffix;
+                }
+            };
+
+            const observer = new IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        updateCounter();
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.5 });
+
+            observer.observe(counter);
+        });
+
+    });
+</script>
+
+
+
+<div class="ops-horizontal-list">
+  
+  
+    <div class="ops-horizontal-card">
+        <div class="ops-image">
+            <img src="http://72.60.205.253:8080/web/image/1237-0561a3e8/6%20Best%20Chicken%20Hatcheries%20in%20North%20Carolina.jpeg?height=256" alt="Hatchery Incubation" loading="lazy">
+            <div class="ops-image-overlay"></div>
+        </div>
+        <div class="ops-text">
+        <div class="ops-card-number">01</div>
+                <h3>Hatchery Management</h3>
+                <p>
+                    We manage egg incubation using advanced hatchery management systems and modern technology 
+                    to maintain precise control over temperature, humidity, and ventilation. Strict hygiene and biosecurity 
+                    measures are followed throughout the process to 
+                    minimize risks and ensure optimal hatchability. This controlled environment supports consistent, healthy chick production
+                    with strong early growth and high survival rates.
+                </p>
+        </div>
+    </div>
+
+
+   
+  
+    <div class="ops-horizontal-card">
+        <div class="ops-image">
+            <img src="http://72.60.205.253:8080/web/image/1235-ac88b5f7/Chicken%20Feed%20Machinery%2CChicken%20Feed%20Plant%2CChicken%E2%80%A6.jpeg?height=256" alt="Chick Production" loading="lazy">
+            <div class="ops-image-overlay"></div>
+        </div>
+        <div class="ops-text">
+            <div class="ops-card-number">02</div>
+            <h3>Feed Mill Operations</h3>
+            <p>
+                Our high-capacity feed mill uses advanced precision nutrition technology to ensure consistent quality at every stage of 
+                production. We carefully process selected raw materials into nutrient-dense, uniform pellets designed to support optimal animal 
+                health and growth. With fully automated quality monitoring systems, each batch is checked for safety, balance, and performance, delivering reliable feed 
+                solutions that meet modern agricultural standards.
+            </p>
+        </div>
+    </div>
+
+     <div class="ops-horizontal-card">
+        <div class="ops-image">
+            <img src="http://72.60.205.253:8080/web/image/1370-2e711046/female-farmer-feeding-chickens.jpg?height=256" alt="Hatchery Incubation" loading="lazy">
+            <div class="ops-image-overlay"></div>
+        </div>
+        <div class="ops-text">
+            <div class="ops-card-number">03</div>
+            <h3>Breeding and Rearing</h3>
+            <p>
+                Our breeding and rearing programs are designed to promote strong genetics,
+                healthy growth, and long-term productivity. We follow scientifically
+                controlled breeding practices and provide balanced nutrition, proper housing,
+                and continuous health monitoring. Through careful management at every stage,
+                we ensure robust livestock development with improved performance and
+                sustainability.
+            </p>
+        </div>
+    </div>
+
+
+    <div class="ops-horizontal-card">
+        <div class="ops-image">
+            <img src="https://i.ibb.co/JWTdC33s/photorealistic-scene-poultry-farm-with-chickens.jpg" alt="Hatchery Incubation" loading="lazy">
+            <div class="ops-image-overlay"></div>
+        </div>
+        <div class="ops-text">
+            <div class="ops-card-number">04</div>
+            <h3>Layer Farm</h3>
+            <p>
+                Our layer farm operations focus on producing high-quality eggs through
+                efficient farm management and advanced poultry care practices. We maintain
+                optimal housing conditions, balanced nutrition, and continuous health
+                monitoring to ensure high laying performance, egg quality, and flock
+                well-being throughout the production cycle.
+            </p>
+        </div>
+    </div>
+
+    <div class="ops-horizontal-card">
+        <div class="ops-image">
+            <img src="https://i.ibb.co/zw8xxmM/neolithic-period-lifestyle.jpg" alt="Hatchery Incubation" loading="lazy">
+            <div class="ops-image-overlay"></div>
+        </div>
+        <div class="ops-text">
+            <div class="ops-card-number">05</div>
+            <h3>Egg production</h3>
+            <p>
+                Our egg production process is designed to deliver safe, fresh, and
+                high-quality eggs through efficient farm management and strict quality
+                control. We ensure optimal nutrition, hygienic housing, and continuous flock
+                monitoring to maintain consistent output, strong shell quality, and superior
+                egg freshness.
+            </p>
+        </div>
+    </div>
+
+    <div class="ops-horizontal-card">
+        <div class="ops-image">
+            <img src="https://i.ibb.co/fVzKw0cq/close-up-woman-holding-chicken.jpg" alt="Hatchery Incubation" loading="lazy">
+            <div class="ops-image-overlay"></div>
+        </div>
+        <div class="ops-text">
+            <div class="ops-card-number">06</div>
+            <h3>chick production</h3>
+            <p>
+                Our chick production process follows strict quality and biosecurity standards
+                to ensure strong, healthy, and uniform chicks. Using advanced incubation and
+                monitoring systems, we maintain optimal environmental conditions throughout
+                development. From hatching to early care, every step is carefully managed to
+                deliver high-performance chicks with excellent growth potential and vitality.
+            </p>
+        </div>
+    </div>
+
+    <div class="ops-horizontal-card">
+        <div class="ops-image">
+            <img src="https://i.ibb.co/ymn59ymh/chicken-farm-scene-with-poultry-people.jpg" alt="Hatchery Incubation" loading="lazy">
+            <div class="ops-image-overlay"></div>
+        </div>
+        <div class="ops-text">
+            <div class="ops-card-number">07</div>
+            <h3>Incubation Control</h3>
+            <p>
+                Our incubation process uses advanced temperature, humidity, and airflow
+                control systems to create an optimal environment for embryo development.
+                Continuous monitoring and strict hygiene protocols ensure high hatchability,
+                uniform chick quality, and consistent production outcomes.
+            </p>
+        </div>
+    </div>
+</div>
+
+<style>
+    .ops-horizontal-list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+
+    .ops-horizontal-card {
+    display: grid;
+    grid-template-columns: 45% 55%;
+    background: linear-gradient(135deg, #adebbfff 0%, #dcfce7 100%);
+    border-radius: 24px;
+    overflow: hidden;
+    border: 1px solid rgba(229, 231, 235, 0.7);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+    transition: all 0.4s ease;
+    position: relative;
+    }
+
+    .ops-horizontal-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.12);
+    border-color: rgba(209, 213, 219, 0.8);
+    }
+
+    .ops-image {
+    position: relative;
+    overflow: hidden;
+    }
+
+    .ops-image img {
+    width: 100%;
+    height: 100%;
+    min-height: 300px;
+    object-fit: cover;
+    transition: transform 0.7s ease;
+    }
+
+    .ops-horizontal-card:hover .ops-image img {
+    transform: scale(1.05);
+    }
+
+    .ops-image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(21, 101, 192, 0.15) 0%, rgba(25, 118, 210, 0.05) 100%);
+    z-index: 1;
+    }
+
+    .ops-text {
+    padding: 45px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    }
+
+    .ops-card-number {
+    position: absolute;
+    top: 25px;
+    right: 30px;
+    font-size: 80px;
+    font-weight: 900;
+    color: rgba(37, 99, 235, 0.08);
+    line-height: 1;
+    font-family: 'Arial', sans-serif;
+    }
+
+    .ops-text h3 {
+    font-size: 26px;
+    font-weight: 800;
+    color: #1a202c;
+    margin-bottom: 18px;
+    position: relative;
+    padding-bottom: 15px;
+    }
+
+    .ops-text h3:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50px;
+    height: 4px;
+    background: linear-gradient(90deg, #2563eb, #3b82f6);
+    border-radius: 2px;
+    }
+
+    .ops-text p {
+    font-size: 15.5px;
+    color: #4a5568;
+    line-height: 1.75;
+    margin-bottom: 25px;
+    }
+
+    .ops-learn-more {
+    display: inline-flex;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #2563eb;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    width: fit-content;
+    }
+
+    .ops-learn-more:hover {
+    color: #1d4ed8;
+    transform: translateX(5px);
+    }
+
+    /* Mobile Responsive */
+    @media (max-width: 768px) {
+    .ops-horizontal-card {
+        grid-template-columns: 1fr;
+    }
+    
+    .ops-image img {
+        min-height: 240px;
+    }
+    
+    .ops-text {
+        padding: 30px 25px;
+    }
+    
+    .ops-card-number {
+        top: 15px;
+        right: 20px;
+        font-size: 60px;
+    }
+    
+    .ops-text h3 {
+        font-size: 22px;
+    }
+    
+    .ops-text p {
+        font-size: 15px;
+    }
+    }
+
+    /* Small mobile devices */
+    @media (max-width: 480px) {
+    .ops-horizontal-list {
+        gap: 35px;
+        padding: 15px;
+    }
+    
+    .ops-text {
+        padding: 25px 20px;
+    }
+    
+    .ops-text h3 {
+        font-size: 20px;
+    }
+    }
+</style>
+
+
+
+
+<section class="operations-section">
+    <div class="ops-header">
+        <h2 class="ops-title">Integrated Operations</h2>
+        <div class="ops-underline"></div>
+        <p class="ops-subtitle">Our seamless integration ensures biosecurity and quality control at every stage of the lifecycle.</p>
+    </div>
+
+    <div class="ops-timeline">
+        <div class="ops-item">
+            <div class="ops-number">01</div>
+            <div class="ops-content">
+                <div class="ops-icon">⚙️</div>
+                <h3>Feed Mill Operations</h3>
+                <p>Our high-capacity feed mill uses precision nutrition technology. We process raw materials into nutrient-dense pellets with automated quality monitoring.</p>
+                <span class="ops-tag">Automated Processing</span>
+                <span class="ops-tag">Nutritional Precision</span>
+            </div>
+        </div>
+
+        <div class="ops-item">
+            <div class="ops-number">02</div>
+            <div class="ops-content">
+                <div class="ops-icon">🐣</div>
+                <h3>Hatchery Management</h3>
+                <p>Equipped with modern incubation systems, we manage thousands of eggs weekly. Our climate-controlled environment ensures healthy, robust chick production.</p>
+                <span class="ops-tag">Smart Incubation</span>
+                <span class="ops-tag">High Hatchability</span>
+            </div>
+        </div>
+
+        <div class="ops-item">
+            <div class="ops-number">03</div>
+            <div class="ops-content">
+                <div class="ops-icon">🐓</div>
+                <h3>Breeding &amp; Rearing</h3>
+                <p>Expert flock management of parent birds. We focus on vaccination, biosecurity, and ethical rearing to produce top-quality breeder stocks.</p>
+                <span class="ops-tag">Flock Management</span>
+                <span class="ops-tag">Biosecurity Protocols</span>
+            </div>
+        </div>
+
+        <div class="ops-item">
+            <div class="ops-number">04</div>
+            <div class="ops-content">
+                <div class="ops-icon">🥚</div>
+                <h3>Layer &amp; Egg Production</h3>
+                <p>Large-scale layer farms focused on hygiene. Our automated collection system ensures eggs reach consumers fresh, clean, and full of nutrition.</p>
+                <span class="ops-tag">Daily Freshness</span>
+                <span class="ops-tag">Hygienic Collection</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+    .operations-section {
+        padding: 80px 5%;
+        background: linear-gradient(135deg, #adebbfff 0%, #dcfce7 100%);
+        font-family: 'Inter', sans-serif;
+    }
+
+    .ops-header {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    .ops-title {
+        font-size: 36px;
+        color: #1e293b;
+        font-weight: 800;
+        margin-bottom: 10px;
+    }
+
+    .ops-underline {
+        width: 80px;
+        height: 5px;
+        background: #10b981; /* Greenish tone for Agriculture feel */
+        margin: 0 auto 20px;
+        border-radius: 10px;
+    }
+
+    .ops-subtitle {
+        color: #64748b;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    /* Operations Timeline Layout */
+    .ops-timeline {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 25px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .ops-item {
+        background: #ffffff;
+        padding: 40px 30px;
+        border-radius: 24px;
+        position: relative;
+        border: 1px solid #e2e8f0;
+        transition: all 0.3s ease;
+    }
+
+    .ops-item:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 20px 40px rgba(0,0,0,0.05);
+        border-color: #10b981;
+    }
+
+    .ops-number {
+        position: absolute;
+        top: 20px;
+        right: 30px;
+        font-size: 40px;
+        font-weight: 900;
+        color: #f1f5f9;
+        z-index: 1;
+        transition: 0.3s;
+    }
+
+    .ops-item:hover .ops-number {
+        color: #d1fae5;
+    }
+
+    .ops-icon {
+        font-size: 40px;
+        margin-bottom: 20px;
+        display: inline-block;
+    }
+
+    .ops-content {
+        position: relative;
+        z-index: 2;
+    }
+
+    .ops-content h3 {
+        font-size: 20px;
+        color: #1e293b;
+        margin-bottom: 15px;
+        font-weight: 700;
+    }
+
+    .ops-content p {
+        font-size: 14px;
+        color: #475569;
+        line-height: 1.7;
+        margin-bottom: 20px;
+    }
+
+    /* Tags */
+    .ops-tag {
+        display: inline-block;
+        background: #f1f5f9;
+        color: #64748b;
+        padding: 4px 12px;
+        border-radius: 6px;
+        font-size: 11px;
+        font-weight: 600;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+    .ops-item:hover .ops-tag {
+        background: #10b981;
+        color: #ffffff;
+    }
+
+    @media (max-width: 768px) {
+        .ops-timeline { grid-template-columns: 1fr; }
+    }
+</style>
