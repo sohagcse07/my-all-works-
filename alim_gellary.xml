@@ -1,0 +1,656 @@
+<div class="premium-gallery">
+    
+    <div class="notifications-container">
+        
+    </div>
+    
+    <div class="header-section">
+        <h2 class="main-title">Our Infrastructure</h2>
+        <div class="underline"></div>
+        <p class="sub-text">Explore our state-of-the-art farm, feed mill, and hatchery facilities.</p>
+        
+    </div>
+
+    <div class="photo-masonry">
+        <div class="photo-card" data-notification="Poultry Farm viewed">
+            <img src="http://72.60.205.253:8080/web/image/1394-76acf266/brown-chickens-farm.jpg?height=256" alt="Farm" loading="lazy">
+            <div class="card-content">
+                <h3>Poultry Farm</h3>
+                <p>Advanced bio-security environment</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" data-notification="Liked Poultry Farm">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn" data-notification="Shared Poultry Farm">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <div class="photo-card" data-notification="Feed Mill viewed">
+            <img src="http://72.60.205.253:8080/web/image/1397-66809c94/person-hand-holding-bucket-with-fodder.jpg?height=256" alt="Feed Mill" loading="lazy">
+            <div class="card-content">
+                <h3>Feed Mill</h3>
+                <p>Nutritional excellence for livestock</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" data-notification="Liked Feed Mill">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn" data-notification="Shared Feed Mill">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <div class="photo-card" data-notification="Hatchery viewed">
+            <img src="http://72.60.205.253:8080/web/image/1304-c07207e7/breeding.jpeg?height=256" alt="Hatchery" loading="lazy">
+            <div class="card-content">
+                <h3>Hatchery</h3>
+                <p>Precision hatching technology</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" data-notification="Liked Hatchery">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn" data-notification="Shared Hatchery">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <div class="photo-card" data-notification="Layer Farm viewed">
+            <img src="/web/image/1399-7793ab00/layer_farm.jpeg?height=256" alt="Layer Farm" loading="lazy">
+            <div class="card-content">
+                <h3>Layer Farm</h3>
+                <p>Fresh &amp; Organic Egg production</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" data-notification="Liked Layer Farm">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn" data-notification="Shared Layer Farm">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="photo-card" data-notification="Chicks viewed">
+            <img src="http://72.60.205.253:8080/web/image/1400-2d70a6ce/egg%20layer.jpg?height=256" alt="Chicks" loading="lazy">
+            <div class="card-content">
+                <h3>Egg Layers</h3>
+                <p>These breeds are selected for high egg production. They are typically lighter-bodied and mature quickly</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" data-notification="Liked Chicks">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn" data-notification="Shared Chicks">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="photo-card" >
+            <img src="http://72.60.205.253:8080/web/image/1401-cf07c287/closeup-shot-cute-baby-chicks-near-egg-white-surface.jpg?height=256" alt="Meata Birds" loading="lazy">
+            <div class="card-content">
+                <h3>Meat Birds (Broilers)</h3>
+                <p>These chickens are bred for rapid growth and efficient meat production, reaching market weight quickly.</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="photo-card" >
+            <img src="http://72.60.205.253:8080/web/image/1402-c615b64d/close-up-sweet-newborn-small-chicken.jpg?height=256" alt="Pet Breeds" loading="lazy">
+            <div class="card-content">
+                <h3>Ornamental/Pet Breeds</h3>
+                <p>These chickens are raised for their unique appearance, temperament, or show qualities rather than commercial production. They often lay fewer eggs.</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="photo-card" >
+            <img src="/web/image/1403-000a668c/5%25layer%20Concentrate%20Feed%20_premix%20Feed%20Layer%20Use%E2%80%A6.jpeg?height=256" alt="Our Feed" loading="lazy">
+            <div class="card-content">
+                <h3>Our Feed</h3>
+                <p>our feed is really good for the chickens.</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="photo-card" >
+            <img src="/web/image/1404-6a809fc8/Gemini_Generated_Image_b7wr8pb7wr8pb7wr.png?height=256" alt="Chick Caring" loading="lazy">
+            <div class="card-content">
+                <h3>Chick Caring</h3>
+                <p>We take care of the chicks properly.</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="photo-card" >
+            <img src="/web/image/1405-ce2070d1/white-chicken-farm.jpg?height=256" alt="Broiler chicken" loading="lazy">
+            <div class="card-content">
+                <h3>Broiler chicken</h3>
+                <p>Broiler chicken farming is a key part of our operations.</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <div class="photo-card" >
+            <img src="/web/image/1406-5454a12d/selective-closeup-white-hen.jpg?height=256" alt="White Hen" loading="lazy">
+            <div class="card-content">
+                <h3>White Hen </h3>
+                <p>White hen farming is a key part of our operations.</p>
+            </div>
+            <div class="card-actions">
+                <button class="action-btn like-btn" >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"></path>
+                    </svg>
+                </button>
+                <button class="action-btn share-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+<!-- 
+    <div class="header-section" style="margin-top: 60px;">
+        <h2 class="main-title">Process &amp; Achievements</h2>
+        <div class="underline"></div>
+    </div> -->
+
+</div>
+
+<style>
+
+
+    :root {
+
+        --text-white: #ffffff;
+        --bg-light: #f4f7f6;
+        
+    }
+
+    
+    .header-section .main-title {
+        color: #ffffff;
+    }
+
+    .header-section .sub-text {
+        color: rgba(255, 255, 255, 0.85);
+    }
+
+    .header-section .underline {
+        background: #ffffff;
+    }
+
+
+    .premium-gallery {
+        padding: 60px 5%;
+        <!-- background: #225a47ff; -->
+        background: linear-gradient(
+        180deg,
+        #1f4f3a 0%,
+        #2e7d5a 50%,
+        #1f4f3a 100%
+    );
+        font-family: 'Poppins', sans-serif;
+        position: relative;
+    }
+    /* Header Styling */
+    .header-section {
+        text-align: center;
+        margin-bottom: 40px;
+        
+    }
+    
+    .main-title {
+        font-size: 36px;
+        font-weight: 800;
+        color: #222;
+        margin-bottom: 10px;
+        letter-spacing: -1px;
+    }
+    
+    .underline {
+        width: 60px;
+        height: 4px;
+        background: var(--primary-color);
+        margin: 0 auto 20px;
+        border-radius: 2px;
+    }
+    
+    .sub-text {
+        color: #777;
+        font-size: 16px;
+    }
+
+    /* Photo Grid Styling */
+    .photo-masonry {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 25px;
+    }
+    
+    .photo-card {
+        position: relative;
+        border-radius: 15px;
+        overflow: hidden;
+        height: 300px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        cursor: pointer;
+    }
+    
+    .photo-card img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+    }
+    
+    .photo-card:hover img {
+        transform: scale(1.15);
+    }
+
+    /* Gradient Overlay */
+    .card-content {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        padding: 30px 20px;
+        background: linear-gradient(transparent, rgba(0,0,0,0.8));
+        color: var(--text-white);
+        transition: 0.4s;
+        z-index: 2;
+    }
+    
+    .card-content h3 {
+        margin: 0;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    
+    .card-content p {
+        font-size: 14px;
+        opacity: 0;
+        transform: translateY(10px);
+        transition: 0.4s;
+    }
+    
+    .photo-card:hover .card-content p {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* Card Actions */
+    .card-actions {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        display: flex;
+        gap: 10px;
+        z-index: 3;
+        opacity: 0;
+        transform: translateY(-10px);
+        transition: all 0.3s ease;
+    }
+
+    .photo-card:hover .card-actions {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    .action-btn {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.9);
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        color: #333;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .action-btn:hover {
+        background: white;
+        transform: scale(1.1);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .action-btn.like-btn:hover {
+        color: #e74c3c;
+    }
+
+    .action-btn.share-btn:hover {
+        color: var(--primary-color);
+    }
+
+    /* Animations */
+    @keyframes slideIn {
+        from {
+            transform: translateX(100%);
+            opacity: 0;
+        }
+        to {
+            transform: translateX(0);
+            opacity: 1;
+        }
+    }
+
+    @keyframes pulse {
+        0% {
+            box-shadow: 0 0 0 0 rgba(0, 123, 255, 0.4);
+        }
+        70% {
+            box-shadow: 0 0 0 10px rgba(0, 123, 255, 0);
+        }
+        100% {
+            box-shadow: 0 0 0 0 rgba(0, 123, 255, 0);
+        }
+    }
+
+    /* Mobile Responsive */
+    @media (max-width: 768px) {
+        .main-title { 
+            font-size: 28px; 
+        }
+        
+        .photo-card { 
+            height: 250px; 
+        }
+        
+        .notifications-container {
+            width: calc(100% - 40px);
+            max-width: 320px;
+        }
+        
+        .notification-btn {
+            padding: 8px 16px;
+            font-size: 13px;
+        }
+    }
+</style>
+
+<!-- <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const notificationsContainer = document.querySelector('.notifications-container');
+        let notificationCount = 0;
+        
+        // Function to create and show a notification
+        function showNotification(title, message, type = 'info', duration = 4000) {
+            notificationCount++;
+            const notificationId = 'notification-' + notificationCount;
+            
+            const notification = document.createElement('div');
+            notification.className = `notification ${type}`;
+            notification.id = notificationId;
+            
+            // Set icon based on type
+            let icon = '';
+            switch(type) {
+                case 'success':
+                    icon = '✓';
+                    break;
+                case 'warning':
+                    icon = '⚠';
+                    break;
+                case 'danger':
+                    icon = '✗';
+                    break;
+                default:
+                    icon = 'ℹ';
+            }
+            
+            notification.innerHTML = `
+                <div class="notification-icon">${icon}</div>
+                <div class="notification-content">
+                    <div class="notification-title">${title}</div>
+                    <div class="notification-message">${message}</div>
+                </div>
+                <button class="notification-close" onclick="removeNotification('${notificationId}')">×</button>
+            `;
+            
+            notificationsContainer.appendChild(notification);
+            
+            // Trigger animation
+            setTimeout(() => {
+                notification.classList.add('show');
+            }, 10);
+            
+            // Auto remove after duration
+            if (duration > 0) {
+                setTimeout(() => {
+                    removeNotification(notificationId);
+                }, duration);
+            }
+            
+            return notificationId;
+        }
+        
+        // Function to remove a notification
+        window.removeNotification = function(notificationId) {
+            const notification = document.getElementById(notificationId);
+            if (notification) {
+                notification.classList.remove('show');
+                notification.classList.add('hide');
+                
+                setTimeout(() => {
+                    if (notification.parentNode) {
+                        notification.parentNode.removeChild(notification);
+                    }
+                }, 300);
+            }
+        }
+        
+        // Demo notifications button
+        const demoBtn = document.getElementById('demo-notifications');
+        if (demoBtn) {
+            demoBtn.addEventListener('click', function() {
+                showNotification(
+                    'Demo Started', 
+                    'Showing sample notifications for gallery interactions', 
+                    'info'
+                );
+                
+                setTimeout(() => {
+                    showNotification(
+                        'Poultry Farm', 
+                        'You liked the Poultry Farm image', 
+                        'success'
+                    );
+                }, 500);
+                
+                setTimeout(() => {
+                    showNotification(
+                        'Video Playback', 
+                        'Production Process video is now playing', 
+                        'info'
+                    );
+                }, 1500);
+                
+                setTimeout(() => {
+                    showNotification(
+                        'Content Shared', 
+                        'You shared the Hatchery image with a friend', 
+                        'warning'
+                    );
+                }, 2500);
+            });
+        }
+        
+        // Photo card hover notifications
+        const photoCards = document.querySelectorAll('.photo-card');
+        photoCards.forEach(card => {
+            let hoverTimeout;
+            
+            card.addEventListener('mouseenter', function() {
+                clearTimeout(hoverTimeout);
+                hoverTimeout = setTimeout(() => {
+                    const notificationText = this.getAttribute('data-notification');
+                    if (notificationText) {
+                        showNotification(
+                            'Gallery Activity', 
+                            notificationText, 
+                            'info',
+                            3000
+                        );
+                    }
+                }, 1000); // Show notification after 1 second of hover
+            });
+            
+            card.addEventListener('mouseleave', function() {
+                clearTimeout(hoverTimeout);
+            });
+        });
+        
+        // Action buttons click notifications
+        const actionButtons = document.querySelectorAll('.action-btn, .video-play-btn');
+        actionButtons.forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.stopPropagation(); // Prevent card hover notification from triggering
+                
+                const notificationText = this.getAttribute('data-notification');
+                if (notificationText) {
+                    let type = 'info';
+                    
+                    if (this.classList.contains('like-btn')) {
+                        type = 'success';
+                        // Toggle like state
+                        if (!this.classList.contains('liked')) {
+                            this.classList.add('liked');
+                            this.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"/>
+                            </svg>`;
+                        } else {
+                            this.classList.remove('liked');
+                            this.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                                <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
+                            </svg>`;
+                        }
+                    }
+                    
+                    if (this.classList.contains('share-btn')) {
+                        type = 'warning';
+                    }
+                    
+                    showNotification(
+                        'User Action', 
+                        notificationText, 
+                        type,
+                        4000
+                    );
+                }
+            });
+        });
+        
+        // Video card interactions
+        const videoCards = document.querySelectorAll('.video-card');
+        videoCards.forEach(card => {
+            card.addEventListener('click', function(e) {
+                if (!e.target.closest('.video-play-btn')) {
+                    const notificationText = this.getAttribute('data-notification');
+                    if (notificationText) {
+                        showNotification(
+                            'Video Content', 
+                            notificationText, 
+                            'info',
+                            3000
+                        );
+                    }
+                }
+            });
+        });
+        
+        // Initialize with a welcome notification
+        setTimeout(() => {
+            showNotification(
+                'Welcome to Our Gallery', 
+                'Hover over images or click buttons to see notifications', 
+                'info',
+                5000
+            );
+        }, 1000);
+    });
+</script> -->
