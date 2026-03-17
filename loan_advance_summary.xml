@@ -1,0 +1,135 @@
+ <!-- LOAN & ADVANCE SUMMARY SECTION -->
+                <t t-if="state.loanData">
+                <div class="had-row-2" style="margin-bottom:16px;">
+
+                    <!-- LOAN CARD -->
+                    <div class="had-card">
+                        <div class="had-card-header">
+                            <i class="fa fa-bank"/> Loan Summary
+                            <span style="font-size:.75rem;color:#6b7280;margin-left:8px;">by Month</span>
+                        </div>
+
+                        <!-- KPI mini strip -->
+                        <div style="display:flex;gap:10px;padding:10px 14px 0;">
+                            <!-- This Month -->
+                            <div style="flex:1;background:#eff6ff;border-radius:8px;padding:10px 12px;">
+                                <div style="font-size:.68rem;color:#6b7280;font-weight:600;">This Month</div>
+                                <div style="font-size:1.1rem;font-weight:800;color:#0f172a;">
+                                    $<t t-esc="state.loanData.curr_loan_total"/>
+                                </div>
+                                <div style="font-size:.68rem;color:#6b7280;">
+                                    <t t-esc="state.loanData.total_loan_count"/> loans
+                                </div>
+                            </div>
+                            <!-- Last Month -->
+                            <div style="flex:1;background:#f8fafc;border-radius:8px;padding:10px 12px;">
+                                <div style="font-size:.68rem;color:#6b7280;font-weight:600;">Last Month</div>
+                                <div style="font-size:1.1rem;font-weight:800;color:#64748b;">
+                                    $<t t-esc="state.loanData.prev_loan_total"/>
+                                </div>
+                                <t t-if="state.loanData.loan_change !== null and state.loanData.loan_change !== undefined">
+                                    <div t-attf-style="font-size:.68rem;font-weight:700;color:{{ state.loanData.loan_change >= 0 ? '#dc2626' : '#16a34a' }};">
+                                        <i t-attf-class="fa fa-arrow-{{ state.loanData.loan_change >= 0 ? 'up' : 'down' }}"/>
+                                        <t t-esc="state.loanData.loan_change"/>% vs last month
+                                    </div>
+                                </t>
+                            </div>
+                            <!-- Status badges -->
+                            <div style="flex:1.5;background:#f8fafc;border-radius:8px;padding:10px 12px;">
+                                <div style="font-size:.68rem;color:#6b7280;font-weight:600;margin-bottom:5px;">Status</div>
+                                <div style="display:flex;flex-wrap:wrap;gap:4px;">
+                                    <span style="padding:2px 7px;border-radius:20px;font-size:.63rem;font-weight:700;background:#dbeafe;color:#1d4ed8;">
+                                        Approved: <t t-esc="state.loanData.loan_status_count.approved"/>
+                                    </span>
+                                    <span style="padding:2px 7px;border-radius:20px;font-size:.63rem;font-weight:700;background:#d1fae5;color:#065f46;">
+                                        Disbursed: <t t-esc="state.loanData.loan_status_count.disbursed"/>
+                                    </span>
+                                    <span style="padding:2px 7px;border-radius:20px;font-size:.63rem;font-weight:700;background:#fef3c7;color:#b45309;">
+                                        Partial: <t t-esc="state.loanData.loan_status_count.partially_paid"/>
+                                    </span>
+                                    <span style="padding:2px 7px;border-radius:20px;font-size:.63rem;font-weight:700;background:#e0e7ff;color:#4338ca;">
+                                        Paid: <t t-esc="state.loanData.loan_status_count.paid"/>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Chart -->
+                        <div class="had-chart-wrap had-chart-sm">
+                            <t t-if="state.loanLoading">
+                                <div class="had-empty"><i class="fa fa-spinner fa-spin"/> Loading...</div>
+                            </t>
+                            <t t-elif="state.loanData.loan_trend and state.loanData.loan_trend.length">
+                                <canvas id="chart_loan_trend"/>
+                            </t>
+                            <t t-else="">
+                                <div class="had-empty">No loan data available.</div>
+                            </t>
+                        </div>
+                    </div>
+
+                    <!-- ADVANCE CARD -->
+                    <div class="had-card">
+                        <div class="had-card-header">
+                            <i class="fa fa-money"/> Salary Advance Summary
+                            <span style="font-size:.75rem;color:#6b7280;margin-left:8px;">by Month</span>
+                        </div>
+
+                        <!-- KPI mini strip -->
+                        <div style="display:flex;gap:10px;padding:10px 14px 0;">
+                            <!-- This Month -->
+                            <div style="flex:1;background:#fdf4ff;border-radius:8px;padding:10px 12px;">
+                                <div style="font-size:.68rem;color:#6b7280;font-weight:600;">This Month</div>
+                                <div style="font-size:1.1rem;font-weight:800;color:#0f172a;">
+                                    $<t t-esc="state.loanData.curr_adv_total"/>
+                                </div>
+                                <div style="font-size:.68rem;color:#6b7280;">
+                                    <t t-esc="state.loanData.total_adv_count"/> advances
+                                </div>
+                            </div>
+                            <!-- Last Month -->
+                            <div style="flex:1;background:#f8fafc;border-radius:8px;padding:10px 12px;">
+                                <div style="font-size:.68rem;color:#6b7280;font-weight:600;">Last Month</div>
+                                <div style="font-size:1.1rem;font-weight:800;color:#64748b;">
+                                    $<t t-esc="state.loanData.prev_adv_total"/>
+                                </div>
+                                <t t-if="state.loanData.adv_change !== null and state.loanData.adv_change !== undefined">
+                                    <div t-attf-style="font-size:.68rem;font-weight:700;color:{{ state.loanData.adv_change >= 0 ? '#dc2626' : '#16a34a' }};">
+                                        <i t-attf-class="fa fa-arrow-{{ state.loanData.adv_change >= 0 ? 'up' : 'down' }}"/>
+                                        <t t-esc="state.loanData.adv_change"/>% vs last month
+                                    </div>
+                                </t>
+                            </div>
+                            <!-- Status badges -->
+                            <div style="flex:1.5;background:#f8fafc;border-radius:8px;padding:10px 12px;">
+                                <div style="font-size:.68rem;color:#6b7280;font-weight:600;margin-bottom:5px;">Status</div>
+                                <div style="display:flex;flex-wrap:wrap;gap:4px;">
+                                    <span style="padding:2px 7px;border-radius:20px;font-size:.63rem;font-weight:700;background:#dbeafe;color:#1d4ed8;">
+                                        Approved: <t t-esc="state.loanData.adv_status_count.approved"/>
+                                    </span>
+                                    <span style="padding:2px 7px;border-radius:20px;font-size:.63rem;font-weight:700;background:#d1fae5;color:#065f46;">
+                                        Paid: <t t-esc="state.loanData.adv_status_count.paid"/>
+                                    </span>
+                                    <span style="padding:2px 7px;border-radius:20px;font-size:.63rem;font-weight:700;background:#fecaca;color:#991b1b;">
+                                        Rejected: <t t-esc="state.loanData.adv_status_count.rejected"/>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Chart -->
+                        <div class="had-chart-wrap had-chart-sm">
+                            <t t-if="state.loanLoading">
+                                <div class="had-empty"><i class="fa fa-spinner fa-spin"/> Loading...</div>
+                            </t>
+                            <t t-elif="state.loanData.adv_trend and state.loanData.adv_trend.length">
+                                <canvas id="chart_adv_trend"/>
+                            </t>
+                            <t t-else="">
+                                <div class="had-empty">No advance data available.</div>
+                            </t>
+                        </div>
+                    </div>
+
+                </div>
+                </t>
